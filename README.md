@@ -1,3 +1,4 @@
+
 # VERIFICATION OF KIRCHHOFF’S LAWS
 
 **AIM:**
@@ -24,15 +25,12 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1360" height="1600" alt="WhatsApp Image 2026-04-24 at 2 01 33 PM" src="https://github.com/user-attachments/assets/4f918c78-1f9b-4c65-9495-2e9c30b5ceb4" />
 
 
-
-
-
-
-
-
-
+**calculation**
+<img width="1151" height="1600" alt="WhatsApp Image 2026-04-24 at 2 01 34 PM (1)" src="https://github.com/user-attachments/assets/9706b06c-c522-452c-bc07-256700f31aef" />
+<img width="958" height="1600" alt="WhatsApp Image 2026-04-24 at 2 01 34 PM" src="https://github.com/user-attachments/assets/df4d7568-0844-4129-b238-c8fdfa786916" />
 
 
 **PROCEDURE:**
@@ -48,6 +46,9 @@
  *5.Reduce the RPS to its minimum value and switch OFF the supply.*
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
+ **marks**
+ <img width="1536" height="801" alt="WhatsApp Image 2026-04-24 at 2 01 33 PM (1)" src="https://github.com/user-attachments/assets/98b9bf8d-e25e-4457-a55c-ae2403801006" />
+
 
 **RESULT:**
 
