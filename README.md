@@ -24,6 +24,7 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1360" height="1600" alt="WhatsApp Image 2026-04-24 at 2 01 33 PM" src="https://github.com/user-attachments/assets/27fec7ab-6ef4-4eea-a02c-1a80daa17f37" />
 
 
 
@@ -48,6 +49,15 @@
  *5.Reduce the RPS to its minimum value and switch OFF the supply.*
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
+
+ <img width="1151" height="1600" alt="WhatsApp Image 2026-04-24 at 2 01 34 PM (1)" src="https://github.com/user-attachments/assets/b2335224-968f-406b-ad58-5991a1453572" />
+
+
+ <img width="958" height="1600" alt="WhatsApp Image 2026-04-24 at 2 01 34 PM" src="https://github.com/user-attachments/assets/72a9ef11-64f7-4233-8e05-d73ffd7ad602" />
+
+
+<img width="1536" height="801" alt="WhatsApp Image 2026-04-24 at 2 01 33 PM (1)" src="https://github.com/user-attachments/assets/436be344-c250-414c-9a77-5f3d9e3c8ae2" />
+
 
 **RESULT:**
 
